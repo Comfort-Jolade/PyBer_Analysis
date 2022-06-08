@@ -14,9 +14,9 @@ The analysis will be performed with the use of line graph that it will give an i
 
 The Urban city have the highest number of rides with the lowest average fare of fare per ride and lowest average fare per Driver. This imply that Pyber generates more revenue from the urban city using a low cost strategy while there is huge volume to enable them 
 
-The Rural city  average fare per ride and the average fare per Driver is pretty high, this is expected because the total number of rides is very low.
+The Rural city  average fare per ride and the average fare per Driver is pretty high, this is expected because the demand rides is relatively low.
 
-The Suburban city The Rural city average fare per ride and the average fare per Driver is pretty high, this is expected because the total number of rides is very low.
+The Suburban city  average fare per ride and the average fare per Driver is a bit high.
 
 
 ### Below is a snapshot of the difference in ride sharing data among different city types starting January 1, 2019 to April 29, 2019
@@ -32,7 +32,7 @@ The three cities experienced increased total fare in the week 2019-02-24 in Febr
 
 The Rural city experience increased total ride fare in the week 2019-04-14 and the lowest in 2019-01-13
 
-Urban City experienced increased total ride fare in 29-03-10 and the lowest in 2019-01-06
+Urban City experienced increased total ride fare in 2019-03-10 and the lowest in 2019-01-06
 
 Suburban city experienced increased total fare in 2019-04-28 and the lowest 2019-01-06
 
