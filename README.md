@@ -14,7 +14,7 @@ The analysis will be performed with the use of line graph that it will give an i
 
 The Urban city have the highest number of rides with the lowest average fare of fare per ride and lowest average fare per Driver. This imply that Pyber generates more revenue from the urban city using a low cost strategy while there is huge volume to enable them 
 
-The Rural city  average fare per ride and the average fare per Driver is pretty high, this is expected because the demand rides is relatively low.
+The Rural city  average fare per ride and the average fare per Driver is pretty high, this is expected because the demand for rides is relatively low.
 
 The Suburban city  average fare per ride and the average fare per Driver is a bit high.
 
