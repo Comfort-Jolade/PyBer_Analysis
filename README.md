@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of the analysis:
-The purpose of this analysis is to create summary DataFrame of the ride-sharing data by city type by using Pandas and Matplotlib.
+The purpose of this analysis is to create summary DataFrame of the ride-sharing data by city type using Pandas and Matplotlib.
 
 The analysis will be performed with the use of line graph that it will give an insight to the weekly fares for each city to help PyBer to make reliable decisions.
 
