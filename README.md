@@ -38,7 +38,7 @@ Suburban city experienced increased total fare in 2019-04-28 and the lowest 2019
 
 
 ## Summary:
-This above results has given us the insight to make three business recommendations to the CEO for addressing any disparities among the city types.
-1. The week with the highest total fare for all the cities was in February, this could be as a result of people returning  back to the countryfrom vacation. this implies there was high demand for Pyber rides during this period. To increase ride fares in the three cities, discounts can be offered to both new and existing customer, Drivers incentives can also be reviewed upward since there is a relation bewtweem the number of rides and the the taotal fares.
+The above results has given us the insight to make three business recommendations to the CEO for addressing any disparities among the city types.
+1. The week with the highest total fare for all the cities was in February, this could be as a result of people returning  back to the country from vacation. this implies there was high demand for Pyber rides during this period. To increase ride fares in the three cities, discounts can be offered to both new and existing customers, Drivers incentives can also be reviewed upward since there is a relationship bewtweem the number of rides and the the taotal fares.
 2. The three cities each have their lowest total fares in a week in January, promotions like discounts of fees can be presented during this period to encourage their customers.
 3. For the week where different cities recorded increased total fare, Driver fare per ride can be increased to encourage more Drivers on the road in these cities during their peak period.
